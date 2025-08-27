@@ -7,7 +7,7 @@ I use:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS logo" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
   <img width="10" />
@@ -25,6 +25,7 @@ I use:
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
 </div>
+
 
 ---
 
