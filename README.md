@@ -31,10 +31,9 @@ I use:
 
 ### 🚀 About Me
 
-- 🌱 Currently learning: **PostgreSQL** and **Prisma**
+- 🌱 Currently learning: **PostgreSQL** , **Prisma** and **Rust**
 - 💼 Profession: **Home**
 - 🛠️ Skills: Fixing bugs, building websites
-- ✨ Fun fact: _Avoid using light mode—it attracts bugs._
 
 ---
 
