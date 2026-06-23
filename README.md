@@ -31,9 +31,9 @@ I use:
 
 ### 🚀 About Me
 
-- 🌱 Currently learning: **PostgreSQL** , **Prisma** and **Rust**
-- 💼 Profession: **Home**
-- 🛠️ Skills: Fixing bugs, building websites
+- 🌱 Currently learning: **PostgreSQL** , **NestJs** , **Rust**
+- 💼 Profession: **Student**
+- 🛠️ Skills: Fixing bugs, building websites, Adding features
 
 ---
 
